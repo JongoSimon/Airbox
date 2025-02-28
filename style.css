@@ -1,0 +1,15 @@
+
+header {
+    background-color: #262336;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo {
+
+}
+   
+.nav {
+  text-decoration: white;
+}
