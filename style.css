@@ -101,3 +101,13 @@ h4 {
 .products {
   margin: 20px;
 }
+
+.logodown {
+  padding: 1px;
+}
+footer {
+  background-color: #262336;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
