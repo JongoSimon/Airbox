@@ -10,6 +10,36 @@ header {
 
 }
    
-.nav {
+.nav a {
   text-decoration: white;
+  color: white;
+}
+
+.support {
+  background-color: #262336;
+  padding: 50px;
+  margin: 1px;
+  text-align: center;
+  color: white;
+}
+
+h3 {
+ font-size: xx-large;
+}
+
+h1 {
+  font-size: xxx-large;
+  margin: -30px;
+}
+
+.try {
+  background-color: #9f98bb;
+  border-radius: 8px;
+  padding: 12px 14px;
+  color: white;
+  cursor: pointer;
+}
+
+.Services {
+  background-color: #f29b66;
 }
