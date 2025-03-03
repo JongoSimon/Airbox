@@ -15,6 +15,7 @@ header {
 .nav a {
   text-decoration: white;
   color: white;
+  margin: 20px;
 }
 
 .support {
@@ -133,4 +134,5 @@ footer {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    pad: 0px 16px;
 }
