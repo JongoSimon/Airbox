@@ -24,8 +24,18 @@ header {
   margin: 1px;
   text-align: center;
   color: white;
+  
 }
 
+.gradiant {
+ color: #d1d0d6; 
+ background-image: linear-gradient(0deg, #d1d0d6 33%, #817d92 57%); 
+ background-clip: text; 
+ -webkit-background-clip: text; 
+ -webkit-text-fill-color: transparent; 
+ font-size: xx-large;
+}
+}
 h3 {
  font-size: xx-large;
 }
@@ -97,6 +107,7 @@ h4 {
   background-color: #6f6c89;
   padding: 24px;
   margin: 10px;
+  
 }
 .prix {
   background-color: #6f6c89;
@@ -111,7 +122,12 @@ h4 {
   display: flex;
   padding-bottom: 40px;
   color: white;
+
  
+}
+
+.articles li::marker {
+  color: #f29b66;
 }
 .shop {
   background-color: #f29b66;
@@ -128,6 +144,10 @@ h4 {
 
 .logodown {
   padding: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  pad: 0px 16px;
 }
 footer {
   background-color: #262336;
